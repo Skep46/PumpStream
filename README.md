@@ -1,20 +1,88 @@
+# PUMP⚡STREAM
+
+> **The home of live crypto markets.** Stream. Trade. Earn. On-Chain.
+
+![PumpStream Banner](https://img.shields.io/badge/STATUS-LIVE_BETA-00FF94?style=for-the-badge&labelColor=0A0A0F)
+![Wallets](https://img.shields.io/badge/WALLETS_CONNECTED-2%2C100%2B-00C2FF?style=for-the-badge&labelColor=0A0A0F)
+![Streamers](https://img.shields.io/badge/STREAMERS-89-FF2E6A?style=for-the-badge&labelColor=0A0A0F)
+![Volume](https://img.shields.io/badge/VOLUME_TRADED-%24340K%2B-FFD700?style=for-the-badge&labelColor=0A0A0F)
+
+---
+
+## What is PumpStream?
+
+PumpStream is a **crypto-native livestreaming platform** where traders, analysts, and creators broadcast market insights in real time while viewers interact directly on-chain.
+
+Traditional platforms like Twitch and YouTube weren't built for crypto. They lack wallet-based identity, on-chain tipping, and real-time trading integration. PumpStream solves this by merging **livestreaming**, **DeFi**, and **social finance** into a single platform.
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| ⚡ **Crypto-Native Livestreaming** | Broadcast live market analysis and trading sessions to your community |
+| 🔐 **Wallet-Based Login** | Sign in with your crypto wallet — transparent identity, on-chain forever |
+| 💸 **On-Chain Tipping** | Viewers tip streamers instantly in crypto. No middlemen. No delays |
+| 📈 **Live Copy Trading** | One-click copy any streamer's trade the moment they execute it |
+| 🎲 **Prediction Markets** | Bet on market outcomes in real time. Streamers set the questions |
+| 🪙 **Creator Tokens** | Launch your own token — give holders exclusive access, signals, and alpha |
+
+---
+
+## 🎨 Design System
+
+| Token | Value | Usage |
+|---|---|---|
+| `--green` | `#00FF94` | Primary neon, CTAs, glows |
+| `--pink` | `#FF2E6A` | Secondary accent, alerts |
+| `--gold` | `#FFD700` | Highlights, earnings |
+| `--blue` | `#00C2FF` | Info, links |
+| `--bg` | `#0A0A0F` | Page background |
+| `--surface` | `#12121A` | Card backgrounds |
+
+**Fonts:** `Orbitron` (headlines) · `Space Mono` (body/monospace)
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Landing page with particle canvas hero
+- [x] Wallet connect modal (MetaMask, Phantom, WalletConnect)
+- [x] Mock stream UI with live chat simulation
+- [x] Prediction markets preview
+- [x] Creator token cards
+- [ ] Real wallet authentication (EIP-1193)
+- [ ] Live video streaming integration
+- [ ] On-chain tipping smart contract (Solana / EVM)
+- [ ] Copy trading execution engine
+- [ ] Creator token launchpad (pump.fun integration)
+- [ ] Prediction market smart contracts
+- [ ] Mobile app (React Native)
+
+---
+
+## 📜 License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+## 🌐 Community
+
+| Platform | Link |
+|---|---|
+| 🐦 Twitter/X | [@PumpStream](https://twitter.com/pumpstream) |
+| 💬 Discord | [discord.gg/pumpstream](https://discord.gg/pumpstream) |
+| ✈️ Telegram | [t.me/pumpstream](https://t.me/pumpstream) |
+| 🐙 GitHub | [github.com/pumpstream](https://github.com/pumpstream) |
+
+---
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+**Built on-chain. Built for traders. Built different.**
+
+© 2025 PumpStream — The financial coordination layer for Web3.
+
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/8c0f862e-6b56-44ad-8695-1984723655f8
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
