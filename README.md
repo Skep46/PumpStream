@@ -1,12 +1,6 @@
 # PUMP⚡STREAM
 
 > **The home of live crypto markets.** Stream. Trade. Earn. On-Chain.
-
-![PumpStream Banner](https://img.shields.io/badge/STATUS-LIVE_BETA-00FF94?style=for-the-badge&labelColor=0A0A0F)
-![Wallets](https://img.shields.io/badge/WALLETS_CONNECTED-2%2C100%2B-00C2FF?style=for-the-badge&labelColor=0A0A0F)
-![Streamers](https://img.shields.io/badge/STREAMERS-89-FF2E6A?style=for-the-badge&labelColor=0A0A0F)
-![Volume](https://img.shields.io/badge/VOLUME_TRADED-%24340K%2B-FFD700?style=for-the-badge&labelColor=0A0A0F)
-
 ---
 
 ## What is PumpStream?
